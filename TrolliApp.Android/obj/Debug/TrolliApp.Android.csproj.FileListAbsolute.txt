@@ -1,0 +1,104 @@
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\TrolliApp.Android.dll
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\TrolliApp.Android.pdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\com.companyname.TrolliApp.apk
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\com.companyname.TrolliApp-Signed.apk
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\TrolliApp.dll
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\TrolliApp.pdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\TrolliApp.Android.csprojResolveAssemblyReference.cache
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\TrolliApp.Android.csproj.CoreCompileInputs.cache
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\TrolliApp.Android.dll
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\TrolliApp.Android.pdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\android\bin\com.companyname.TrolliApp.apk
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\res\drawable\icon.png
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\res\layout\tabbar.xml
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\res\layout\toolbar.xml
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\res\values\styles.xml
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\R.cs.flag
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\uploadflags.txt
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\Com.OneSignal.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\OneSignal.Android.Binding.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\Plugin.Connectivity.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\Plugin.DeviceInfo.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\Plugin.Messaging.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\TrolliApp.Android.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\android\assets\Com.OneSignal.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\android\assets\OneSignal.Android.Binding.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\android\assets\Plugin.DeviceInfo.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\android\assets\Plugin.Messaging.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\android\assets\TrolliApp.Android.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Xamarin Data\TrolliApp\TrolliApp\TrolliApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Com.OneSignal.dll.mdb
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\OneSignal.Android.Binding.dll.mdb
+bin\Debug\Plugin.Connectivity.dll.mdb
+bin\Debug\Plugin.DeviceInfo.dll.mdb
+bin\Debug\Plugin.Messaging.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\Mono.Android.Export.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\Plugin.Connectivity.Abstractions.pdb
+bin\Debug\Plugin.DeviceInfo.Abstractions.pdb
+bin\Debug\Plugin.Messaging.Abstractions.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Data.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Transactions.pdb
+bin\Debug\Mono.Data.Tds.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.IO.Compression.FileSystem.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+bin\Debug\System.Web.Services.pdb
+obj\Debug\linksrc\TrolliApp.Android.dll.mdb
+obj\Debug\linksrc\Com.OneSignal.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\OneSignal.Android.Binding.dll.mdb
+obj\Debug\linksrc\Plugin.Connectivity.dll.mdb
+obj\Debug\linksrc\Plugin.DeviceInfo.dll.mdb
+obj\Debug\linksrc\Plugin.Messaging.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\Mono.Android.Export.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\Plugin.Connectivity.Abstractions.pdb
+obj\Debug\linksrc\Plugin.DeviceInfo.Abstractions.pdb
+obj\Debug\linksrc\Plugin.Messaging.Abstractions.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\TrolliApp.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Web.Services.pdb

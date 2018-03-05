@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "637727376440",
+    "firebase_url": "https://testmobileverif.firebaseio.com",
+    "project_id": "testmobileverif",
+    "storage_bucket": "testmobileverif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637727376440:android:f03c939dc02d3a72",
+        "android_client_info": {
+          "package_name": "com.companyname.TrolliApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637727376440-tecs14ips913h8fu7lq2l5pn50sg4p6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.TrolliApp",
+            "certificate_hash": "fbf8e3435b3f5b9320f6b02c2bbe445db7df0308"
+          }
+        },
+        {
+          "client_id": "637727376440-h2us2unh4evafo4geqjk9i71r1tvveas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgGVsYKZ1Q5HDTChZxdObWkRlylzevVc8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637727376440-h2us2unh4evafo4geqjk9i71r1tvveas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

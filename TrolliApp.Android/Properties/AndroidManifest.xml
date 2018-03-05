@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="2.0" package="com.companyname.TrolliApp" android:installLocation="preferExternal" android:versionCode="2">
+	<uses-sdk android:minSdkVersion="13" />
+	<permission android:name="com.companyname.TrolliApp.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+	<uses-permission android:name="com.companyname.TrolliApp.permission.C2D_MESSAGE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<receiver android:name="com.onesignal.GcmBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+		<intent-filter>
+			<action android:name="com.google.android.c2dm.intent.RECEIVE" />
+			<category android:name="com.companyname.TrolliApp" />
+		</intent-filter>
+	</receiver>
+	<application android:label="TrolliApp.Android"></application>
+</manifest>
